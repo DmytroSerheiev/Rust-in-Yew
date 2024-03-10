@@ -1,0 +1,10 @@
+C:\Users\Dmytro\Downloads\Rust-in-Yew\target\debug\deps\libgloo_console-9050c5814a9d387f.rmeta: C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\lib.rs C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\console_dbg.rs C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\counter.rs C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\externs.rs C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\macros.rs C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\timer.rs
+
+C:\Users\Dmytro\Downloads\Rust-in-Yew\target\debug\deps\gloo_console-9050c5814a9d387f.d: C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\lib.rs C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\console_dbg.rs C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\counter.rs C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\externs.rs C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\macros.rs C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\timer.rs
+
+C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\lib.rs:
+C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\console_dbg.rs:
+C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\counter.rs:
+C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\externs.rs:
+C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\macros.rs:
+C:\Users\Dmytro\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-console-0.3.0\src\timer.rs:
