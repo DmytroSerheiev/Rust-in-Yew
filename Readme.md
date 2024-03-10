@@ -25,3 +25,4 @@ cargo run
 ```bash
 trunk serve
 ```
+***[Перевірка версій пакетів Link ](https://crates.io/search?q=yew)***
